@@ -2,8 +2,17 @@
 body {
 	padding: 20px;
 }
-
+/*
 h1 {
 	border-bottom: 1px solid #000000
+}*/
+
+/*trying to turn it to all caps*/
+/*h3 {
+	text-transform: capitalize;
+}*/
+
+ul {
+	border: 100px;
 }
 
