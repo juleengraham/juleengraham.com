@@ -12,7 +12,19 @@ h1 {
 	text-transform: capitalize;
 }*/
 
-ul {
-	border: 100px;
+h1, h2 {
+	text-align: center;
 }
+
+
+
+
+
+/*Footer CSS, will need to add divs later*/
+img {
+	height: 25px;
+	width: 25px;
+}
+
+
 
